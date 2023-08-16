@@ -52,8 +52,9 @@
 	text-transform: uppercase;
 	line-height: 20px;
 	cursor: pointer;
+	transition: 0.2s;
 }
-.header__menu li:hover {
+.header__menu .hvr:hover {
 	padding-bottom: 5px;
 	border-bottom: 3px solid #224fe3;
 }

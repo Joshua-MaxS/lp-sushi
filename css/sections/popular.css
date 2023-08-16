@@ -97,6 +97,8 @@
 	background: var(--color-creamson);
 	border-radius: 64px;
 	cursor: pointer;
+
+	transition: 0.22s;
 }
 .popular-foods__button:hover {
 	transform: scale(1.1);

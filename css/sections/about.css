@@ -67,11 +67,11 @@
 
 	cursor: pointer;
 
-	transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+	transition: 0.22s;
 }
 .about-us__button:hover {
 	color: #fff;
-	box-shadow: 0 4px 8px rgba(30, 10, 140, 0.7);
+
 	transform: scale(1.09);
 }
 
